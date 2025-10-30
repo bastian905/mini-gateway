@@ -1,6 +1,6 @@
 
-![LED](https://github.com/user-at![Web](https://github.com/user-attachments/assets/180a80fc-e9d2-4da5-be5c-65cb2f876cb4)
 tachments/assets/bafa7ef6-de31-4c33-89f6-4cb56c05c2c1)
+![LED](https://github.com/user-attachments/assets/779f5246-3643-4968-879c-ab12720dc452)
 
 <!-- Social Preview Metadata -->
 <meta property="og:title" content="Mini Gateway — Web-Configurable IoT Gateway for ESP8266">
