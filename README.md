@@ -1,3 +1,7 @@
+
+![LED](https://github.com/user-at![Web](https://github.com/user-attachments/assets/180a80fc-e9d2-4da5-be5c-65cb2f876cb4)
+tachments/assets/bafa7ef6-de31-4c33-89f6-4cb56c05c2c1)
+
 <!-- Social Preview Metadata -->
 <meta property="og:title" content="Mini Gateway — Web-Configurable IoT Gateway for ESP8266">
 <meta property="og:description" content="Smart dual-mode Wi-Fi gateway with JSON API, web dashboard, and DHCP scanner for Wemos D1 mini. Built with Arduino and ESP8266WebServer.">
